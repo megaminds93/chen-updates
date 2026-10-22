@@ -1,7 +1,7 @@
 {
   "version": "4.0.8",
   "release_date": "22/10/2026",
-  "changelog": "• Phiên bản v4.0.8 (Ngày 22/10/2026):\n  - Đã tối ưu hóa và sửa lỗi hệ thống.\n  - Cập nhật chính sách bồi thường & hỗ trợ mới nhất.",
+  "changelog": "• Phiên bản v4.0.8 (Ngày 22/10/2026):\n  - Khắc phục lỗi xuất file Excel (Errno 22: Invalid argument) khi đường dẫn chứa ký tự tiếng Việt có dấu.\n  - Khắc phục lỗi tỷ lệ % thu hồi đất nông nghiệp xuất đúng thực tế & chuẩn định mức NĐ 88/2024 & QĐ 15/2026.\n  - Tích hợp hệ thống cập nhật phiên bản trực tuyến qua GitHub và nâng cấp thủ công từ file zip.\n  - Bổ sung tùy chọn bật/tắt thưởng bàn giao mặt bằng đất nông nghiệp và hỗ trợ thuê nhà.\n  - Bảo vệ an toàn 100% dữ liệu dự án & cơ sở dữ liệu gpmb.db khi nâng cấp phiên bản mới.",
   "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.0.8/Chen_Update_v4.0.8_20261022.zip",
   "min_version": "4.0.0"
 }
