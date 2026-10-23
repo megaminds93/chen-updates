@@ -1,7 +1,7 @@
 {
-  "version": "4.1.1",
-  "release_date": "22/10/2026",
-  "changelog": "• Phiên bản v4.1.1 (Ngày 22/10/2026):\n  - Mục 1 đổi tên thành 'Thông tin chung dự án' và lược bỏ ô 'Căn cứ pháp lý'.\n  - Mục 2 phân tách rõ ràng 2 loại nhân khẩu: Khẩu tính hỗ trợ thuê nhà (cùng sổ hộ khẩu) và Khẩu trực tiếp SX nông nghiệp (để tính ổn định đời sống theo NĐ 88 & QĐ 15).\n  - Mục 3 đổi tên chuẩn hóa thành 'Các thửa đất thu hồi'.\n  - Đồng bộ tính toán chính sách, giao diện người dùng và xuất Excel tự động cho 2 loại nhân khẩu.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.1.1/Chen_Update_v4.1.1_20261022.zip",
+  "version": "4.1.2",
+  "release_date": "23/10/2026",
+  "changelog": "• Phiên bản v4.1.2 (Ngày 23/10/2026):\n  - Khắc phục triệt để lỗi thiếu thư viện khiến hộp thoại lưu file Excel không hiện và báo 'Bạn đã hủy lưu file'.\n  - Tự động đưa hộp thoại Chọn nơi lưu file Excel lên trên cùng (TopMost) tránh bị che khuất sau cửa sổ ứng dụng.\n  - Bổ sung cơ chế dự phòng thông minh: Tự động lưu thẳng ra Màn hình chính (Desktop) và mở file ngay lập tức.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.1.2/Chen_Update_v4.1.2_20261023.zip",
   "min_version": "4.0.0"
 }
