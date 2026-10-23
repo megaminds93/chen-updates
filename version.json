@@ -1,7 +1,7 @@
 {
-  "version": "4.1.2",
+  "version": "4.1.3",
   "release_date": "23/10/2026",
-  "changelog": "• Phiên bản v4.1.2 (Ngày 23/10/2026):\n  - Khắc phục triệt để lỗi thiếu thư viện khiến hộp thoại lưu file Excel không hiện và báo 'Bạn đã hủy lưu file'.\n  - Tự động đưa hộp thoại Chọn nơi lưu file Excel lên trên cùng (TopMost) tránh bị che khuất sau cửa sổ ứng dụng.\n  - Bổ sung cơ chế dự phòng thông minh: Tự động lưu thẳng ra Màn hình chính (Desktop) và mở file ngay lập tức.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.1.2/Chen_Update_v4.1.2_20261023.zip",
+  "changelog": "• Phiên bản v4.1.3 (Ngày 23/10/2026):\n  - Bổ sung vào Phần C tính Bồi thường sản lượng cây hàng năm / hoa màu theo Phụ lục 1 Quyết định 27/2026/QĐ-UBND ngày 13/5/2026 của UBND tỉnh Thái Nguyên.\n  - Tích hợp danh mục 17 loại rau màu & cây trồng hàng năm chuẩn quy định (Lúa 9.8k, Ngô 7.2k, Rau muống/ngót 140k, Dưa vân lưới 80k, Nhóm rau ăn lá 26k...).\n  - Tự động tính: Thành tiền = Diện tích thu hồi × Đơn giá rau màu, tự động ánh xạ vào Phụ lục 03 (cột 17, 18) và Bảng Tổng Hợp (cột 12).\n  - Thêm nút 1-Click 'Áp vào các thửa đất' để tự động cập nhật đơn giá sản lượng và ghi chú cho tất cả thửa đất NN.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.1.3/Chen_Update_v4.1.3_20261023.zip",
   "min_version": "4.0.0"
 }
