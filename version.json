@@ -1,7 +1,7 @@
 {
-  "version": "4.3.2",
-  "release_date": "24/10/2026",
-  "changelog": "• Phiên bản v4.3.2 (Ngày 24/10/2026):\n  - Đồng bộ hóa toàn bộ 7 ô checkbox chính sách (Phần A & Phần C): Loại bỏ xung đột sự kiện hai chiều và tự động lưu ngầm trạng thái vào CSDL ngay khi người dùng bật/tắt hoặc chuyển đổi giữa các hộ dân.\n  - Đồng bộ xuất Excel PA_mauNN.xlsx khi tắt Bồi thường sản lượng hoa màu: Khi bỏ tick sản lượng hoa màu, cột đơn giá và thành tiền sản lượng trong file Excel xuất ra tự động về 0 đ khớp tuyệt đối với giao diện.\n  - Bổ sung công cụ 'Dong_Goi_Chuyen_May_Khac.bat' (package_client_portable.py): Đóng gói bản Portable sạch để gửi sang máy khác, tự động loại bỏ .github_token, file rác và làm sạch dữ liệu hộ dân nháp.\n  - Sửa lỗi ô tick Bồi Thường Sản Lượng Hoa Màu (Phần C): Cho phép người dùng tự do bật/tắt chính sách bồi thường sản lượng và chỉnh sửa cột 'DT Tính Sản Lượng (m²)'.\n  - Tinh gọn Hộp thoại Thêm/Sửa Thửa Đất: Bỏ phần kê khai sản lượng hoa màu trong modal thửa đất, chuyển sang quản lý tập trung tại Phần C.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.2/Chen_Update_v4.3.2_20261024.zip",
+  "version": "4.3.3",
+  "release_date": "26/10/2026",
+  "changelog": "• Phiên bản v4.3.3 (Ngày 26/10/2026):\n  - Lưu trữ bền vững Google Gemini API Key: Tự động đồng bộ API Key xuống CSDL gpmb.db, file bảo vệ .gemini_api_key và bật chế độ lưu trữ vĩnh viễn trên Desktop WebView2 (không còn bị mất API Key sau khi cập nhật hay tắt mở lại Chen.exe).\n  - Bổ sung nút '🔄 Khởi Động Lại Phần Mềm Ngay' sau khi cập nhật: Cho phép tự động đóng phiên bản cũ và khởi chạy lại Chen.exe ngay lập tức chỉ với 1 cú nhấp chuột mà không cần tắt mở thủ công.\n  - Đồng bộ hóa toàn bộ 7 ô checkbox chính sách (Phần A & Phần C) và xuất Excel PA_mauNN.xlsx chính xác khi bật/tắt Bồi thường sản lượng hoa màu.\n  - Bổ sung công cụ 'Dong_Goi_Chuyen_May_Khac.bat' (package_client_portable.py): Đóng gói bản Portable sạch để gửi sang máy khác, tự động loại bỏ .github_token và .gemini_api_key cá nhân.\n  - Tinh gọn Hộp thoại Thêm/Sửa Thửa Đất và bổ sung cột 'DT Tính Sản Lượng (m²)' chỉnh sửa trực tiếp tại Phần C.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.3/Chen_Update_v4.3.3_20261026.zip",
   "min_version": "4.0.0"
 }
