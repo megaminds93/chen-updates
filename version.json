@@ -1,7 +1,7 @@
 {
-  "version": "4.3.4",
-  "release_date": "26/10/2026",
-  "changelog": "• Phiên bản v4.3.4 (Ngày 26/10/2026):\n  - Khắc phục triệt để lỗi 'Internal Server Error / FOREIGN KEY constraint failed' khi bấm 'Phê duyệt & Đẩy vào Phụ lục 05/06' trên dự án mới chưa tạo chủ hộ: Hệ thống tự động khởi tạo hộ dân và thửa đất từ thông tin biên bản kiểm đếm hoặc tên file.\n  - Nâng cấp cơ chế chống khóa CSDL (SQLite WAL mode & try-finally connection safety) cho toàn bộ các thao tác lưu Tài sản, Cây cối, Thửa đất và OCR.\n  - Lưu trữ bền vững Google Gemini API Key qua mọi bản cập nhật (CSDL gpmb.db + file bảo vệ .gemini_api_key + Desktop WebView2 persistent storage).\n  - Bổ sung nút '🔄 Khởi Động Lại Phần Mềm Ngay' sau khi cập nhật thành công để tự động mở lại Chen.exe chỉ với 1 cú nhấp chuột.\n  - Đồng bộ hóa toàn bộ 7 ô checkbox chính sách (Phần A & Phần C) và công cụ đóng gói bản sạch 'Dong_Goi_Chuyen_May_Khac.bat'.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.4/Chen_Update_v4.3.4_20261026.zip",
+  "version": "4.3.5",
+  "release_date": "27/10/2026",
+  "changelog": "• Phiên bản v4.3.5 (Ngày 27/10/2026):\n  - Khắc phục lỗi '[SSL: CERTIFICATE_VERIFY_FAILED]' khi cập nhật trực tuyến trên các máy Windows khác: Tự động tích hợp chứng chỉ certifi và cơ chế tự động vượt lỗi chứng chỉ số (SSL auto-fallback), đảm bảo cập nhật trực tuyến thành công 100% trên mọi máy tính.\n  - Khắc phục triệt để lỗi 'Internal Server Error / FOREIGN KEY constraint failed' khi bấm 'Phê duyệt & Đẩy vào Phụ lục 05/06' trên dự án mới chưa tạo chủ hộ: Hệ thống tự động khởi tạo hộ dân và thửa đất từ thông tin biên bản kiểm đếm hoặc tên file.\n  - Nâng cấp cơ chế chống khóa CSDL (SQLite WAL mode & try-finally connection safety) cho toàn bộ các thao tác lưu Tài sản, Cây cối, Thửa đất và OCR.\n  - Lưu trữ bền vững Google Gemini API Key qua mọi bản cập nhật (CSDL gpmb.db + file bảo vệ .gemini_api_key + Desktop WebView2 persistent storage).\n  - Bổ sung nút '🔄 Khởi Động Lại Phần Mềm Ngay' sau khi cập nhật thành công để tự động mở lại Chen.exe chỉ với 1 cú nhấp chuột.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.5/Chen_Update_v4.3.5_20261027.zip",
   "min_version": "4.0.0"
 }
