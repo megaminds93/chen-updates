@@ -1,7 +1,7 @@
 {
-  "version": "4.3.5",
-  "release_date": "27/10/2026",
-  "changelog": "• Phiên bản v4.3.5 (Ngày 27/10/2026):\n  - Khắc phục lỗi '[SSL: CERTIFICATE_VERIFY_FAILED]' khi cập nhật trực tuyến trên các máy Windows khác: Tự động tích hợp chứng chỉ certifi và cơ chế tự động vượt lỗi chứng chỉ số (SSL auto-fallback), đảm bảo cập nhật trực tuyến thành công 100% trên mọi máy tính.\n  - Khắc phục triệt để lỗi 'Internal Server Error / FOREIGN KEY constraint failed' khi bấm 'Phê duyệt & Đẩy vào Phụ lục 05/06' trên dự án mới chưa tạo chủ hộ: Hệ thống tự động khởi tạo hộ dân và thửa đất từ thông tin biên bản kiểm đếm hoặc tên file.\n  - Nâng cấp cơ chế chống khóa CSDL (SQLite WAL mode & try-finally connection safety) cho toàn bộ các thao tác lưu Tài sản, Cây cối, Thửa đất và OCR.\n  - Lưu trữ bền vững Google Gemini API Key qua mọi bản cập nhật (CSDL gpmb.db + file bảo vệ .gemini_api_key + Desktop WebView2 persistent storage).\n  - Bổ sung nút '🔄 Khởi Động Lại Phần Mềm Ngay' sau khi cập nhật thành công để tự động mở lại Chen.exe chỉ với 1 cú nhấp chuột.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.5/Chen_Update_v4.3.5_20261027.zip",
+  "version": "4.3.6",
+  "release_date": "28/10/2026",
+  "changelog": "• Phiên bản v4.3.6 (Ngày 28/10/2026):\n  - Trang bị Bộ Nhớ Tự Học 3 Lớp (Continuous Self-Learning AI Engine - AILearningMemory): Tự động tiếp thu mọi chỉnh sửa chữ viết tay và lựa chọn đơn giá trực tiếp của người dùng trên Bảng Tạm Duyệt để không bao giờ lặp lại lỗi sai ở các biên bản tiếp theo.\n  - Nâng cấp bộ tiền xử lý ảnh chữ viết tay (UnsharpMask làm nét nét bút mảnh/mờ, tăng độ phân giải PDF scale 2.5x) và Dynamic Few-Shot Prompting tự động bơm từ điển lỗi viết tay đã học vào Gemini Vision.\n  - Nhận diện thông minh tiêu đề phân đoạn ('Cây cối trên thửa đất số...') và tự động khớp giá chính xác các kết cấu phụ trợ ('Giá đỡ', 'Khung sắt', 'Giàn chống').\n  - Khắc phục lỗi '[SSL: CERTIFICATE_VERIFY_FAILED]' khi cập nhật trực tuyến trên các máy Windows khác và lỗi FOREIGN KEY khi duyệt OCR trên dự án mới.\n  - Lưu trữ bền vững Google Gemini API Key & Bộ nhớ tự học trong CSDL gpmb.db qua mọi bản cập nhật.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.6/Chen_Update_v4.3.6_20261028.zip",
   "min_version": "4.0.0"
 }
