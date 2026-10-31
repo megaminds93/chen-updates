@@ -1,7 +1,7 @@
 {
-  "version": "4.3.9",
-  "release_date": "30/10/2026",
-  "changelog": "• Phiên bản v4.3.9 (Ngày 30/10/2026):\n  - Khắc phục triệt để lỗi khi gõ dấu chấm (.) hoặc dấu phẩy (,) tại ô 'Tổng DT đang SD (m²)' và các ô diện tích phần C bị nhảy con trỏ về đầu dãy số hoặc nuốt mất dấu thập phân.\n  - Tối ưu trường nhập liệu số thập phân (inputmode='decimal') cho phép gõ số lẻ và số thập phân tự nhiên, mượt mà mà không bị cưỡng ép ép kiểu làm reset vị trí con trỏ.\n  - Khắc phục hiện tượng giật, nhảy xô lệch giao diện (Scrollbar Layout Shift) khi chuyển đổi giữa các tab có thanh cuộn và không có thanh cuộn bằng cơ chế 'scrollbar-gutter: stable' & 'overflow-y: scroll'.\n  - Căn chỉnh vị trí chữ về chính giữa ô theo phương thẳng đứng và phương ngang (vertical-align: middle & text-align: center) cho toàn bộ tiêu đề cột (th) và dữ liệu (td) trong tất cả các bảng dữ liệu.\n  - Bảo toàn dữ liệu tính toán chính sách ổn định đời sống (NĐ 88 & Điều 12 QĐ 15) theo thời gian thực mà không làm gián đoạn thao tác bàn phím của người dùng.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.3.9/Chen_Update_v4.3.9_20261030.zip",
+  "version": "4.4.0",
+  "release_date": "31/10/2026",
+  "changelog": "• Phiên bản v4.4.0 (Ngày 31/10/2026):\n  - Tích hợp Hệ thống Quản lý Bản quyền Thiết bị (HWID), Khai báo thông tin người dùng lần đầu (Họ tên & Cơ quan) và Phê duyệt kích hoạt từ xa trên Máy Chủ Quản Trị.\n  - Tự động đồng bộ trực tiếp danh sách yêu cầu kích hoạt & lịch sử cấp phép (Người sử dụng, Tên cơ quan, Thời gian yêu cầu, Thời gian kích hoạt, Mã máy) vào file Google Sheet riêng tư của Quản trị viên.\n  - Hiển thị thông báo yêu cầu phê duyệt mới theo thời gian thực ngay trên thanh công cụ của Máy chủ Quản lý; máy đã được kích hoạt chỉ cần khai báo 1 lần duy nhất.\n  - Khắc phục triệt để lỗi gõ dấu chấm thập phân (.) tại các ô diện tích phần C và chống giật/nhảy giao diện khi chuyển tab.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.0/Chen_Update_v4.4.0_20261031.zip",
   "min_version": "4.0.0"
 }
