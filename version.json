@@ -1,7 +1,7 @@
 {
-  "version": "4.4.0",
+  "version": "4.4.1",
   "release_date": "31/10/2026",
-  "changelog": "• Phiên bản v4.4.0 (Ngày 31/10/2026):\n  - Tích hợp Hệ thống Quản lý Bản quyền Thiết bị (HWID), Khai báo thông tin người dùng lần đầu (Họ tên & Cơ quan) và Phê duyệt kích hoạt từ xa trên Máy Chủ Quản Trị.\n  - Tự động đồng bộ trực tiếp danh sách yêu cầu kích hoạt & lịch sử cấp phép (Người sử dụng, Tên cơ quan, Thời gian yêu cầu, Thời gian kích hoạt, Mã máy) vào file Google Sheet riêng tư của Quản trị viên.\n  - Hiển thị thông báo yêu cầu phê duyệt mới theo thời gian thực ngay trên thanh công cụ của Máy chủ Quản lý; máy đã được kích hoạt chỉ cần khai báo 1 lần duy nhất.\n  - Khắc phục triệt để lỗi gõ dấu chấm thập phân (.) tại các ô diện tích phần C và chống giật/nhảy giao diện khi chuyển tab.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.0/Chen_Update_v4.4.0_20261031.zip",
+  "changelog": "• Phiên bản v4.4.1 (Ngày 31/10/2026):\n  - Tối ưu hóa không gian xem tài liệu: Tự động/chủ động thu gọn khung tải ảnh và ghi chép thô sau khi bóc tách, dành trọn vẹn 100% chiều cao cho khung xem trước PDF/biên bản.\n  - Bộ công cụ duyệt PDF trực quan: Hỗ trợ phóng to lên tới 400%, lăn chuột thu phóng mượt mà và giữ chuột trái kéo rê (pan/drag) tự do xem mọi góc chữ viết tay trên biên bản.\n  - Ẩn/Hiện file PDF linh hoạt: Bổ sung nút chuyển đổi ẩn toàn bộ cột PDF sau khi đối chiếu xong để mở rộng Bảng Tạm Duyệt ra toàn màn hình (full-width 12 cột) cực kỳ thoáng mắt.\n  - Cố định kích thước chuẩn cho các ô số trang và cột Trang trong bảng tạm duyệt, chống co cụm khuất số khi số trang lớn hơn 10 (Trang 12 / 12, Tr.12).\n  - Hộp thoại xác nhận Phê duyệt & Nâng cao trí tuệ tự học AI: Khi phê duyệt đẩy vào PL 05/06, cho phép tùy chọn chuyển dữ liệu đã kiểm soát vào Bộ nhớ tự học AI để làm mẫu so sánh chuẩn cho các lần sau.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.1/Chen_Update_v4.4.1_20261031.zip",
   "min_version": "4.0.0"
 }
