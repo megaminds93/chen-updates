@@ -1,7 +1,7 @@
 {
-  "version": "4.4.2",
+  "version": "4.4.3",
   "release_date": "02/11/2026",
-  "changelog": "• Phiên bản v4.4.2 (Ngày 02/11/2026):\n  - Khắc phục triệt để lỗi tự sinh dòng Trừ khối xây (KX GCĐ VTH M50) và Trừ trát vôi ve: Xử lý theo từng ô cửa độc lập thay vì kiểm tra cờ toàn cục, đảm bảo tất cả các cửa đi, cửa sổ đều tự động sinh đủ dòng khấu trừ chuẩn xác.\n  - Nâng cấp bộ nhận diện số lượng thiết bị không có kích thước đo (Chậu rửa, Gương soi, Xí bệt, Vòi sen, Bình nóng lạnh...): Ép chuẩn AI căn đúng hàng cột E (Số lượng) thay vì bỏ qua hay mặc định là 1.\n  - Bổ sung cơ chế tự động bóc tách số lượng từ tên danh mục hoặc ĐVT (ví dụ 'Chậu rửa 02 cái', '02 bộ') khi cột kích thước để trống.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.2/Chen_Update_v4.4.2_20261102.zip",
+  "changelog": "• Phiên bản v4.4.3 (Ngày 02/11/2026):\n  - Mở rộng tối đa chiều rộng cột Kích thước (D) trong Bảng Tạm Duyệt (min-w 210px - 256px), tích hợp tooltip hiển thị 100% biểu thức chi tiết khi di chuột qua, giúp dễ dàng đối chiếu số đo với biểu kiểm đếm.\n  - Khóa triệt để hiện tượng nhảy số khi lăn con trỏ chuột trên các ô Số lượng (E) và Đơn giá (F): Tự động vô hiệu hóa wheel increment khi focus/hover, giúp cuộn trang mượt mà không lo lệch số liệu.\n  - Bổ sung nút Chèn dòng mới bên dưới (➕) trực tiếp ở giữa các dòng và nút 'Thêm dòng' trên thanh công cụ trang.\n  - Tích hợp tính năng Hoàn tác xóa (Undo): Tự động lưu lịch sử dòng bị xóa, cho phép khôi phục chính xác dòng bị xóa nhầm về vị trí ban đầu chỉ với 1 click.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.3/Chen_Update_v4.4.3_20261102.zip",
   "min_version": "4.0.0"
 }
