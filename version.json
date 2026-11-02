@@ -1,7 +1,7 @@
 {
-  "version": "4.4.1",
-  "release_date": "31/10/2026",
-  "changelog": "• Phiên bản v4.4.1 (Ngày 31/10/2026):\n  - Tối ưu hóa không gian xem tài liệu: Tự động/chủ động thu gọn khung tải ảnh và ghi chép thô sau khi bóc tách, dành trọn vẹn 100% chiều cao cho khung xem trước PDF/biên bản.\n  - Bộ công cụ duyệt PDF trực quan: Hỗ trợ phóng to lên tới 400%, lăn chuột thu phóng mượt mà và giữ chuột trái kéo rê (pan/drag) tự do xem mọi góc chữ viết tay trên biên bản.\n  - Ẩn/Hiện file PDF linh hoạt: Bổ sung nút chuyển đổi ẩn toàn bộ cột PDF sau khi đối chiếu xong để mở rộng Bảng Tạm Duyệt ra toàn màn hình (full-width 12 cột) cực kỳ thoáng mắt.\n  - Cố định kích thước chuẩn cho các ô số trang và cột Trang trong bảng tạm duyệt, chống co cụm khuất số khi số trang lớn hơn 10 (Trang 12 / 12, Tr.12).\n  - Hộp thoại xác nhận Phê duyệt & Nâng cao trí tuệ tự học AI: Khi phê duyệt đẩy vào PL 05/06, cho phép tùy chọn chuyển dữ liệu đã kiểm soát vào Bộ nhớ tự học AI để làm mẫu so sánh chuẩn cho các lần sau.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.1/Chen_Update_v4.4.1_20261031.zip",
+  "version": "4.4.2",
+  "release_date": "02/11/2026",
+  "changelog": "• Phiên bản v4.4.2 (Ngày 02/11/2026):\n  - Khắc phục triệt để lỗi tự sinh dòng Trừ khối xây (KX GCĐ VTH M50) và Trừ trát vôi ve: Xử lý theo từng ô cửa độc lập thay vì kiểm tra cờ toàn cục, đảm bảo tất cả các cửa đi, cửa sổ đều tự động sinh đủ dòng khấu trừ chuẩn xác.\n  - Nâng cấp bộ nhận diện số lượng thiết bị không có kích thước đo (Chậu rửa, Gương soi, Xí bệt, Vòi sen, Bình nóng lạnh...): Ép chuẩn AI căn đúng hàng cột E (Số lượng) thay vì bỏ qua hay mặc định là 1.\n  - Bổ sung cơ chế tự động bóc tách số lượng từ tên danh mục hoặc ĐVT (ví dụ 'Chậu rửa 02 cái', '02 bộ') khi cột kích thước để trống.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.2/Chen_Update_v4.4.2_20261102.zip",
   "min_version": "4.0.0"
 }
