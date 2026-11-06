@@ -1,6 +1,18 @@
 {
-  "updated_at": "16:11:47 31/10/2026",
+  "updated_at": "21:21:22 06/11/2026",
   "enforce_license": true,
   "google_sheet_webhook_url": "https://script.google.com/macros/s/AKfycbytVU7ZZhZA7J_zrgZYBtupUKqiJvFYT8AWxoaSi9lpoMXQPUwqVYxa02WVZsICTThmBQ/exec",
-  "devices": {}
+  "devices": {
+    "CHEN-F929-800B-9B74": {
+      "hwid": "CHEN-F929-800B-9B74",
+      "hostname": "DESKTOP-MKEIGV0",
+      "user_name": "Nguyễn Quý Hùng - Laptop",
+      "organization": "Chi nhánh Trung tâm Phát triển quỹ đất Khu vực 1",
+      "requested_at": "21:10:23 06/11/2026",
+      "activated_at": "",
+      "status": "PENDING",
+      "app_version": "4.4.7",
+      "last_seen": "21:21:22 06/11/2026"
+    }
+  }
 }
