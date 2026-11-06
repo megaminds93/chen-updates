@@ -1,7 +1,7 @@
 {
-  "version": "4.4.8",
+  "version": "4.4.9",
   "release_date": "06/11/2026",
-  "changelog": "• Phiên bản v4.4.8 (Ngày 06/11/2026):\n  - Đồng bộ yêu cầu phê duyệt kích hoạt 2 kênh thời gian thực (Cloud Registry API 0s delay + Google Sheet Webhook): Mọi yêu cầu từ máy trạm hiện lên ngay lập tức tại Máy Chủ Quản Trị kể cả khi Google Sheet Apps Script chưa bấm Lưu.\n  - Tự động phục hồi & đẩy lại yêu cầu PENDING từ các máy trạm đang chờ duyệt lên Máy Chủ Quản Trị.\n  - Khóa chặt quyền Máy Chủ Quản Trị (Master Admin) chỉ duy nhất cho mã phần cứng máy chủ gốc (CHEN-8FFE-1FA9-56A2).\n  - Bóc tách cuốn chiếu từng trang (Progressive Background OCR): Hiển thị ngay Trang 1 chỉ sau vài giây để người dùng soát trước; các trang 2..N tự động chạy ngầm kèm thanh tiến trình trực quan.\n  - Đối chiếu Kho dữ liệu cụm từ tần suất cao & Lịch sử sửa lỗi (Frequency Corpus Verifier).",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.8/Chen_Update_v4.4.8_20261106.zip",
+  "changelog": "• Phiên bản v4.4.9 (Ngày 06/11/2026):\n  - Khắc phục triệt để lỗi nhấp nháy hộp thoại Quản lý cấp phép (xung đột GPU WebView2 giữa hiệu ứng backdrop-blur và animate-bounce của thanh thông báo yêu cầu mới phía dưới).\n  - Đồng bộ yêu cầu phê duyệt kích hoạt 2 kênh thời gian thực (Cloud Registry API 0s delay + Google Sheet Webhook): Mọi yêu cầu từ máy trạm hiện lên ngay lập tức tại Máy Chủ Quản Trị.\n  - Tự động phục hồi & đẩy lại yêu cầu PENDING từ các máy trạm đang chờ duyệt lên Máy Chủ Quản Trị.\n  - Khóa chặt quyền Máy Chủ Quản Trị (Master Admin) chỉ duy nhất cho mã phần cứng máy chủ gốc (CHEN-8FFE-1FA9-56A2).\n  - Bóc tách cuốn chiếu từng trang (Progressive Background OCR) & Đối chiếu Kho dữ liệu cụm từ tần suất cao.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.4.9/Chen_Update_v4.4.9_20261106.zip",
   "min_version": "4.0.0"
 }
