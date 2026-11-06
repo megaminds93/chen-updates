@@ -1,5 +1,5 @@
 {
-  "updated_at": "21:21:22 06/11/2026",
+  "updated_at": "21:25:54 06/11/2026",
   "enforce_license": true,
   "google_sheet_webhook_url": "https://script.google.com/macros/s/AKfycbytVU7ZZhZA7J_zrgZYBtupUKqiJvFYT8AWxoaSi9lpoMXQPUwqVYxa02WVZsICTThmBQ/exec",
   "devices": {
@@ -9,10 +9,11 @@
       "user_name": "Nguyễn Quý Hùng - Laptop",
       "organization": "Chi nhánh Trung tâm Phát triển quỹ đất Khu vực 1",
       "requested_at": "21:10:23 06/11/2026",
-      "activated_at": "",
-      "status": "PENDING",
+      "activated_at": "21:25:54 06/11/2026",
+      "status": "ACTIVE",
       "app_version": "4.4.7",
-      "last_seen": "21:21:22 06/11/2026"
+      "last_seen": "21:21:22 06/11/2026",
+      "signature": "de60853be0c8aa6dff3f1cab0a78e88bf790067ac096e8a61c5d5aee219ae94c"
     }
   }
 }
