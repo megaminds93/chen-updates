@@ -1,7 +1,7 @@
 {
-  "version": "4.6.1",
+  "version": "4.6.2",
   "release_date": "09/11/2026",
-  "changelog": "• Phiên bản v4.6.1 (Ngày 09/11/2026):\n  - Chuẩn hóa kích thước cố định đồng nhất cho Trung tâm Quản lý Bản quyền & Phê duyệt (Máy chủ): Khung hộp thoại giữ nguyên kích thước cân đối trên cả 3 tab (Danh sách thiết bị, File Google Sheet, Bot Telegram), loại bỏ hoàn toàn hiện tượng co giật/nhảy kích thước khi chuyển tab.\n  - Tối ưu bảng thiết bị: Cột tiêu đề cố định (sticky header), bảng dữ liệu cuộn mượt mà bên trong, phân cấp thị giác trực quan theo tiêu chuẩn Impeccable Design.\n  - Cơ chế Khởi tạo Tri thức AI Độc lập (Seed Starter Pack): Gói 271+ quy tắc tự học chỉ nạp 1 lần duy nhất làm vốn ban đầu cho máy mới cài đặt (CSDL trống).\n  - Bảo toàn Tuyệt đối Tính Độc lập Tự học của Từng Máy: Khi cập nhật phiên bản mới, hệ thống tuyệt đối không tự động ghi đè hoặc cưỡng bức gộp tri thức của máy chủ sang máy trạm để tránh làm loãng dữ liệu của người dùng.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.6.1/Chen_Update_v4.6.1_20261109.zip",
+  "changelog": "• Phiên bản v4.6.2 (Ngày 09/11/2026):\n  - Chống thoát bất cẩn khi nhập dữ liệu vào các bảng phụ (Form Modals): Loại bỏ hoàn toàn cơ chế tự đóng khi bấm ra ngoài bảng chính (click-away) trên toàn bộ hộp thoại nhập liệu (Thêm Chủ Hộ, Thêm Thửa Đất, Quản Lý Dự Án, Xuất Excel, Tra Cứu Giá, v.v.). Giữ an toàn 100% dữ liệu đang nhập, chỉ đóng khi chủ động bấm 'Hủy', 'Đóng' hoặc dấu 'X'.\n  - Chuẩn hóa kích thước cố định đồng nhất cho Trung tâm Quản lý Bản quyền & Phê duyệt (Máy chủ): Khung hộp thoại giữ nguyên kích thước cân đối trên cả 3 tab (Danh sách thiết bị, File Google Sheet, Bot Telegram), loại bỏ hoàn toàn hiện tượng co giật/nhảy kích thước khi chuyển tab.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.6.2/Chen_Update_v4.6.2_20261109.zip",
   "min_version": "4.0.0"
 }
