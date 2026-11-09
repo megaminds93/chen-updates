@@ -1,7 +1,7 @@
 {
-  "version": "4.6.2",
+  "version": "4.7.0",
   "release_date": "09/11/2026",
-  "changelog": "• Phiên bản v4.6.2 (Ngày 09/11/2026):\n  - Chống thoát bất cẩn khi nhập dữ liệu vào các bảng phụ (Form Modals): Loại bỏ hoàn toàn cơ chế tự đóng khi bấm ra ngoài bảng chính (click-away) trên toàn bộ hộp thoại nhập liệu (Thêm Chủ Hộ, Thêm Thửa Đất, Quản Lý Dự Án, Xuất Excel, Tra Cứu Giá, v.v.). Giữ an toàn 100% dữ liệu đang nhập, chỉ đóng khi chủ động bấm 'Hủy', 'Đóng' hoặc dấu 'X'.\n  - Chuẩn hóa kích thước cố định đồng nhất cho Trung tâm Quản lý Bản quyền & Phê duyệt (Máy chủ): Khung hộp thoại giữ nguyên kích thước cân đối trên cả 3 tab (Danh sách thiết bị, File Google Sheet, Bot Telegram), loại bỏ hoàn toàn hiện tượng co giật/nhảy kích thước khi chuyển tab.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.6.2/Chen_Update_v4.6.2_20261109.zip",
+  "changelog": "• Phiên bản v4.7.0 (Ngày 09/11/2026):\n  - Cập nhật Pháp lý Quyết định số 141/2026/QĐ-UBND ngày 08/11/2026 của UBND tỉnh Thái Nguyên (sửa đổi, bổ sung QĐ 15/2026/QĐ-UBND, có hiệu lực từ 09/11/2026).\n  - Sửa đổi Điều 6 (Hỗ trợ đào tạo, chuyển đổi nghề & tìm việc làm cho đất nông nghiệp): Tự động áp dụng hệ số 5 lần (05x) giá đất nông nghiệp theo NQ 33/2025 đối với 6 phường trung tâm TP Thái Nguyên (Phan Đình Phùng, Linh Sơn, Gia Sàng, Quan Triều, Tích Lương, Quyết Thắng); Áp dụng 3 lần (03x) đối với khu vực còn lại.\n  - Sửa đổi Điều 8 (Suất tái định cư tối thiểu bằng đất ở): Phường Bắc Kạn, Đức Xuân tối thiểu 100 m²; Các xã đặc thù tối thiểu 200 m²; Phường còn lại tối thiểu 80 m² (trước đây 60 m²); Xã còn lại tối thiểu 100 m².\n  - Chống thoát bất cẩn khi nhập dữ liệu vào các bảng phụ (Form Modals): Loại bỏ hoàn toàn cơ chế tự đóng khi bấm ra ngoài bảng chính (click-away) trên toàn bộ hộp thoại nhập liệu.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.0/Chen_Update_v4.7.0_20261109.zip",
   "min_version": "4.0.0"
 }
