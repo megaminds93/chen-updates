@@ -3,6 +3,6 @@
   "release_date": "10/11/2026",
   "changelog": "• Phiên bản v4.7.5 (Ngày 10/11/2026):\n  - Hợp nhất 100% nguồn tính toán chính sách (Single Source of Truth): Giao diện, CSDL SQLite và Xuất Excel đồng bộ tuyệt đối qua QD15PolicyEngine.\n  - Quản lý thông minh số tiền nhập tay vs tự tính: Hiển thị nhãn [Sửa tay], nút [↺ Tự tính] trên màn hình và tự động in ghi chú kiểm toán trong file Excel.\n  - Tự động sao lưu xoay vòng CSDL (gpmb.db) vào thư mục _db_backups/ trước mỗi lần khởi động, cập nhật, xóa dữ liệu hoặc xuất hồ sơ.\n  - Nâng cấp bảo mật bản quyền chữ ký số bất đối xứng 256-bit (SIG2 Public Key), kiểm định mã băm SHA-256 khi cập nhật tự động và cổng kiểm duyệt đóng gói sạch.",
   "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.5/Chen_Update_v4.7.5_20261110.zip",
-  "sha256": "f26976460eb76644b5e21bdcd3d86532fec8a33914b85ec008613194e2f61102",
+  "sha256": "d2afdfcde748582043b5ab8b60443b5eb8afb86662f1bc6717613b11c62e96a1",
   "min_version": "4.0.0"
 }
