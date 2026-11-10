@@ -1,7 +1,8 @@
 {
-  "version": "4.7.4",
+  "version": "4.7.5",
   "release_date": "10/11/2026",
-  "changelog": "• Phiên bản v4.7.4 (Ngày 10/11/2026):\n  - Chuẩn hóa 100% cấu trúc xuất Excel mẫu Đất Nông Nghiệp theo hồ sơ thực tế: Phân tách cấu trúc 2 tầng (Dòng Tổng Hợp Chủ Hộ + Dòng Chi Tiết Thửa Đất) trên tất cả các Phụ lục 2, 3, 4.\n  - Tự động tính tổng tiền và diện tích của từng hộ dân ngay trên dòng Chủ Hộ bằng công thức =SUM(thửa con), gộp dọc thông tin chủ hộ chuẩn xác.\n  - Công thức dòng Tổng cộng áp dụng chuẩn nghiệp vụ kế toán GPMB (=SUM(...)/2) chống cộng dồn hai lần, đảm bảo tính liên kết động 100% qua các Sheet.\n  - Phụ lục 01 (1 TỔNG THỂ) liên kết chuẩn xác tổng kinh phí sang Phụ lục 2 và tự động phân bổ diện tích theo đúng nhóm đất thực tế.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.4/Chen_Update_v4.7.4_20261110.zip",
+  "changelog": "• Phiên bản v4.7.5 (Ngày 10/11/2026):\n  - Hợp nhất 100% nguồn tính toán chính sách (Single Source of Truth): Giao diện, CSDL SQLite và Xuất Excel đồng bộ tuyệt đối qua QD15PolicyEngine.\n  - Quản lý thông minh số tiền nhập tay vs tự tính: Hiển thị nhãn [Sửa tay], nút [↺ Tự tính] trên màn hình và tự động in ghi chú kiểm toán trong file Excel.\n  - Tự động sao lưu xoay vòng CSDL (gpmb.db) vào thư mục _db_backups/ trước mỗi lần khởi động, cập nhật, xóa dữ liệu hoặc xuất hồ sơ.\n  - Nâng cấp bảo mật bản quyền chữ ký số bất đối xứng 256-bit (SIG2 Public Key), kiểm định mã băm SHA-256 khi cập nhật tự động và cổng kiểm duyệt đóng gói sạch.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.5/Chen_Update_v4.7.5_20261110.zip",
+  "sha256": "f26976460eb76644b5e21bdcd3d86532fec8a33914b85ec008613194e2f61102",
   "min_version": "4.0.0"
 }
