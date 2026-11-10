@@ -1,8 +1,8 @@
 {
-  "version": "4.7.5",
+  "version": "4.7.6",
   "release_date": "10/11/2026",
-  "changelog": "• Phiên bản v4.7.5 (Ngày 10/11/2026):\n  - Hợp nhất 100% nguồn tính toán chính sách (Single Source of Truth): Giao diện, CSDL SQLite và Xuất Excel đồng bộ tuyệt đối qua QD15PolicyEngine.\n  - Quản lý thông minh số tiền nhập tay vs tự tính: Hiển thị nhãn [Sửa tay], nút [↺ Tự tính] trên màn hình và tự động in ghi chú kiểm toán trong file Excel.\n  - Tự động sao lưu xoay vòng CSDL (gpmb.db) vào thư mục _db_backups/ trước mỗi lần khởi động, cập nhật, xóa dữ liệu hoặc xuất hồ sơ.\n  - Nâng cấp bảo mật bản quyền chữ ký số bất đối xứng 256-bit (SIG2 Public Key), kiểm định mã băm SHA-256 khi cập nhật tự động và cổng kiểm duyệt đóng gói sạch.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.5/Chen_Update_v4.7.5_20261110.zip",
-  "sha256": "d2afdfcde748582043b5ab8b60443b5eb8afb86662f1bc6717613b11c62e96a1",
+  "changelog": "• Phiên bản v4.7.6 (Ngày 10/11/2026):\n  - Triệt tiêu hoàn toàn hiện tượng nháy icon màn hình và cửa sổ PowerShell khi khởi động: Tối ưu hóa cơ chế tạo shortcut ngầm 100% không ảnh hưởng đến Windows Explorer.\n  - Chuẩn hóa bộ công cụ đóng gói chuyển máy khác (Dong_Goi_Chuyen_May_Khac.bat) với chuẩn ngắt dòng Windows CRLF và cơ chế sao lưu SQLite native .backup().\n  - Nâng cấp giao diện Modern Enterprise Slate Navy & Dock Footer tinh gọn, hỗ trợ Chế độ Dịu Mắt Ban Đêm (Eye-Care Dark Mode) và font số liệu tabular-nums.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.6/Chen_Update_v4.7.6_20261110.zip",
+  "sha256": "1f4103ed074bf16d9cadaf3e7c49085de453b105eae1f3c46a748e95918d9af3",
   "min_version": "4.0.0"
 }
