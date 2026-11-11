@@ -1,8 +1,8 @@
 {
-  "version": "4.7.6",
-  "release_date": "10/11/2026",
-  "changelog": "• Phiên bản v4.7.6 (Ngày 10/11/2026):\n  - Triệt tiêu hoàn toàn hiện tượng nháy icon màn hình và cửa sổ PowerShell khi khởi động: Tối ưu hóa cơ chế tạo shortcut ngầm 100% không ảnh hưởng đến Windows Explorer.\n  - Chuẩn hóa bộ công cụ đóng gói chuyển máy khác (Dong_Goi_Chuyen_May_Khac.bat) với chuẩn ngắt dòng Windows CRLF và cơ chế sao lưu SQLite native .backup().\n  - Nâng cấp giao diện Modern Enterprise Slate Navy & Dock Footer tinh gọn, hỗ trợ Chế độ Dịu Mắt Ban Đêm (Eye-Care Dark Mode) và font số liệu tabular-nums.",
-  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.6/Chen_Update_v4.7.6_20261110.zip",
-  "sha256": "1f4103ed074bf16d9cadaf3e7c49085de453b105eae1f3c46a748e95918d9af3",
+  "version": "4.7.7",
+  "release_date": "11/11/2026",
+  "changelog": "• Phiên bản v4.7.7 (Ngày 11/11/2026):\n  - Tối ưu hóa độ mượt khi chuyển đổi giữa các tab: Bổ sung thanh phân trang (Pagination 50 mục/trang) cho Tab 5 (Bảng Giá & Tra Cứu), giảm tải hơn 11.000 DOM nodes giúp chuyển tab tức thì trong 0ms, loại bỏ hoàn toàn hiện tượng khựng/lag.\n  - Khắc phục triệt để lỗi chữ mờ nhạt/mất tương phản ở nút Tab 4 (Kiểm Đếm Cây Cối PL06): Gán màu chữ rõ nét độc lập đạt chuẩn tương phản WCAG cả ở chế độ Sáng và Tối.\n  - Cơ chế đệm dữ liệu thông minh khi duyệt tab: Chỉ tải lại danh mục đơn giá khi người dùng chủ động tìm kiếm hoặc thay đổi bộ lọc, giữ trạng thái siêu mượt khi chuyển tab.",
+  "download_url": "https://github.com/megaminds93/chen-updates/releases/download/v4.7.7/Chen_Update_v4.7.7_20261111.zip",
+  "sha256": "71fea12577984fca8f2ba0e73077614da1670160fa104e5e294be5b9c8a878d3",
   "min_version": "4.0.0"
 }
